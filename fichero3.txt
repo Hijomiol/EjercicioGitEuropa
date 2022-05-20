@@ -1,2 +1,3 @@
 Esto es un nuevo fichero, llamado fichero3.txt
 Linea nueva de local.
+Linea nueva de Remoto.
